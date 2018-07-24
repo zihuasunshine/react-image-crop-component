@@ -78,7 +78,7 @@ class AppView extends React.Component<Props, State> {
         <div className="main">
           <div className="images">
             <div className="CropBlock">
-              <ImageCrop src="demo.jpg"
+              <ImageCrop src="https://s3.eu-central-1.amazonaws.com/serhiy/Github_repo/react-image-crop-component/demo.jpg"
                               maxHeight="300px"
                               square={this.state.rectangleStatus}
                               watch={this.watch}
