@@ -86,7 +86,7 @@ class AppView extends React.Component<Props, State> {
                               onReset={this.onReset}/>
             </div>
             <div className="ResultBlock">
-              <img src="demo.jpg"/>
+              <img src="https://s3.eu-central-1.amazonaws.com/serhiy/Github_repo/react-image-crop-component/demo.jpg"/>
             </div>
           </div>
           <div className="settings">
